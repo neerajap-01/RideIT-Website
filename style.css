@@ -219,6 +219,11 @@ footer .input-group .input-group-text {
   background: var(--bggradient);
   border: none;
 }
+footer .input-group button {
+  text-decoration: none;
+  background: none;
+  border: none;
+}
 footer .column i {
   color: #dd2476;
 }
