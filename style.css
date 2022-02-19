@@ -221,6 +221,8 @@ footer .input-group .input-group-text {
 }
 footer .input-group button {
   text-decoration: none;
+  font-size: 15px;
+  font-weight: 700;
   background: none;
   border: none;
 }
