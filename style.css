@@ -67,12 +67,17 @@ header .container .col-md-7 h1{
   font-weight: bold;
   font-size: 8vmin;
 }
-header .container .col-md-7 p{
-  padding: 1vmin 5vmin;
-}
 header .container .col-md-7 button{
   border-radius: 30px;
   font-weight: bold;
+}
+header .container .col-sm-12 button{
+  border-radius: 10px;
+  font-weight: bold;
+  border-width: 1px;
+  margin-bottom: 25px;
+  border-color: #111;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
 }
 
 /* section 1 */
